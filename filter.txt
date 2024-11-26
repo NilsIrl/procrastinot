@@ -4,6 +4,7 @@ www.youtube.com##.html5-endscreen
 
 ! 2022-05-28 https://www.youtube.com
 www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-mini-guide-entry-renderer[aria-label="Shorts"]
 
 ! 2022-05-28 https://www.twitch.tv
 www.twitch.tv##.side-nav-content
